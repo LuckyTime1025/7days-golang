@@ -1,5 +1,3 @@
-# GitHub DeskTop学习
-
 # 7 days golang programs from scratch
 
 [![CodeSize](https://img.shields.io/github/languages/code-size/geektutu/7days-golang)](https://github.com/geektutu/7days-golang)
